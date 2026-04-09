@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Piyush Sharma!👋
 
-<!--
-**piyushsharma-io/piyushsharma-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓B.Tech Student | 🤖Aspiring AI/ML Engineer
+💻Passionate about Python, Artificial Intelligence, and Innovative solutions.
 
-Here are some ideas to get you started:
+# 🌱 Currently Learning->
+-Python and Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Git and Github
+
+-ML Fundamentrals
+
+-Data Structures and Algorithms
+
+# ⚡ Qualifications->
+to be mentioned*
+
+# 📫 How to reach me->
+E-mail
+
+# It is just the beginning...More Stuff coming SOON..!
