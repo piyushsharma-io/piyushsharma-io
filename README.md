@@ -3,19 +3,18 @@
 🎓B.Tech Student | 🤖Aspiring AI/ML Engineer
 💻Passionate about Python, Artificial Intelligence, and Innovative solutions.
 
-# 🌱 Currently Learning->
--Python and Java
+## 🌱 Currently Learning
+- Python and Java
+- Git and GitHub
+- Machine Learning Fundamentals
+- Data Structures and Algorithms
 
--Git and Github
-
--ML Fundamentrals
-
--Data Structures and Algorithms
-
-# ⚡ Qualifications->
-to be mentioned*
+## ⚡ Qualifications
+- B.Tech in Artificial Intelligence and Machine Learning (Pursuing)
+- Completed Class 12 with PCM and Computer Science
+- Completed Class 10 
 
 # 📫 How to reach me->
-E-mail
+- E-mail: piyush.sharma.dev01@gmail.com
 
 # It is just the beginning...More Stuff coming SOON..!
