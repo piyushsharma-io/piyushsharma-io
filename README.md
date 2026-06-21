@@ -12,7 +12,7 @@
 ## ⚡ Qualifications
 - B.Tech in Artificial Intelligence and Machine Learning (Pursuing)
 - Completed Class 12 with PCM and Computer Science
-- Completed Class 10 
+- Completed Class 10 with an aggregate of 92%
 
 # 📫 How to reach me->
 - E-mail: piyush.sharma.dev01@gmail.com
@@ -23,4 +23,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# It is just the beginning...More Stuff coming SOON..!
+# Stay connected..!
