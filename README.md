@@ -1,16 +1,17 @@
 # Hi there, I'm Piyush Sharma!👋
-
-🎓B.Tech Student | 🤖Aspiring AI/ML Engineer
-💻Passionate about Python, Artificial Intelligence, and Innovative solutions.
+🎓B.Tech CSE AI/ML Student at Chandigarh University (LKO)
+🤖Aspiring AI/ML Engineer
+💻Passionate about Python, Artificial Intelligence, and Innovative Solutions.
 
 ## 🌱 Currently Learning
-- Python and Java
+- Python and C
 - Git and GitHub
 - Machine Learning Fundamentals
 - Data Structures and Algorithms
+- Mathematics
 
 ## ⚡ Qualifications
-- B.Tech in Artificial Intelligence and Machine Learning (Pursuing)
+- B.Tech in Artificial Intelligence and Machine Learning (Pursuing From Chandigarh University Lucknow)
 - Completed Class 12 with PCM and Computer Science
 - Completed Class 10 with an aggregate of 92%
 
