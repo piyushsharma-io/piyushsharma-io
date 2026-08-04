@@ -1,7 +1,7 @@
 # Hi there, I'm Piyush Sharma!👋
-🎓B.Tech CSE AI/ML Student at Chandigarh University (LKO)
-🤖Aspiring AI/ML Engineer
-💻Passionate about Python, Artificial Intelligence, and Innovative Solutions.
+- 🎓B.Tech CSE AI/ML Student at Chandigarh University (LKO)
+- 🤖Aspiring AI/ML Engineer
+- 💻Passionate about Python, Artificial Intelligence, and Innovative Solutions.
 
 ## 🌱 Currently Learning
 - Python and C
